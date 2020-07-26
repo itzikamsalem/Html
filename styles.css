@@ -1,0 +1,81 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+}
+
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 51px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: #008CBA; 
+  border: none;
+  color: white;
+  padding: 15px 47px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button3 {
+  background-color: #555555; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.body {
+  font-family: "Arial";
+  font-size: 22px;
+  color: white;
+}
+
+#specialstyle  {
+	font-family: "Arial";
+	color:white:
+    
+}
+
+.c  {
+	color:white;
+	font-size:24px;
+	font-family:Arial;
+}
+
+.d  {
+	color:DeepSkyBlue;
+	font-family:Courier New;
+	font-size:24px;
+}
+.j  {
+	color:Maroon;
+	font-family:Arial;
+	font-size:20px
+}
+
+.E  {
+	color:CadetBlue;
+	font-size:36px;
+	font-family:Comic Sans MS", cursive, sans-serif;
+}
+
